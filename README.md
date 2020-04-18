@@ -13,6 +13,7 @@ composer require stainlessplugins/oxid-cookiefirst
 
 ## Informationen für Entwickler von Drittanbieterscripten
 
-Die Oxid Standard Scripte sowie Google Analytics werden automatisch in Cookie-First kompatible Ausgaben umgewandelt.
-Weitere Scripte können durch oxscript unter angabe von service und group attributen hinzugefügt werden.
+Die Oxid Standard Skripte sowie Google Analytics werden automatisch in Cookie-First kompatible Ausgaben umgewandelt.
+Weitere Scripte können durch oxscript unter Angabe von service und group Attributen hinzugefügt werden.
+
 
