@@ -11,7 +11,7 @@ composer require stainlessplugins/oxid-cookiefirst
 composer require stainlessplugins/oxid-cookiefirst
 ```
 
-## Informationen für Entwickler von Drittanbieterscripten
+## Informationen für Entwickler von Drittanbieter
 
 Die Oxid Standard Skripte sowie Google Analytics werden automatisch in Cookie-First kompatible Ausgaben umgewandelt.
 Weitere Scripte können durch oxscript unter Angabe von service und group Attributen hinzugefügt werden.
@@ -19,7 +19,7 @@ Weitere Scripte können durch oxscript unter Angabe von service und group Attrib
 ## Softwarenutzung
 
 Diese Software ist geistiges Eigentum von Keywan Ghadami.
-Sie dürfen den Code hier unverbindlich einsehen und bei gihub "forken", 
-Sie können eine Lizenz für weitere Nutzungsrechte erwerben weitere Informationen hierzu finden Sie in der Datei Lizenz.txt und auf http://stailessplugins.com . 
+Sie dürfen den Code hier unverbindlich einsehen, die Nutzung unterliegt allerdings Einschränkungen die in der Datei Lizenz.txt genauer beschrieben sind.
+Eine Lizenz für weitere Nutzungsrechte erwerben Sie auf http://stailessplugins.com . 
 
 Bitte zögern Sie nicht mit uns Kontakt aufzunehmen.
